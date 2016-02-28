@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$-beta</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <copyright>$copyright$</copyright>
+    <licenseUrl>https://github.com/zbrad/UrlAclLib/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/zbrad/UrlAclLib</projectUrl>
+    <iconUrl>https://github.com/zbrad/UrlAclLib/ZBrad.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <summary>$title$</summary>
+    <description>$description$</description>
+    <releaseNotes></releaseNotes>
+    <tags>urlacl</tags>
+  </metadata>
+  <!--
+  <files>
+    <file src="*.dll" target="lib\net45" />
+  </files>
+  -->
+</package>
+
+
